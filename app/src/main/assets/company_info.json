@@ -4,38 +4,66 @@
       "headline":"Awards winning mobile ordering platform",
       "description":"Allows customers to pre-order and pay for food and drink at great places nearby.\n\nBoppl has key operating partnerships with some of the best Point-of-Sale (POS) systems on the market, including Kounta and Ikentoo, two of the fastest growing cloud-based POS systems globally.\n\nWon multiple awards including the UK Mobile and Apps Design Award in 2014 and named App of the Day by Mobile Entertainment, Top 50 Mobile Innovator in 2013. Featured on Mashable for Top 20 Best Apps for a Big Night out and Huffington Post for The Best Apps for Spontaneous Outings.\n\n\nAvailable for FREE on the Google Play Store and Apple App Store",
       "image":"portfolio_boppl",
-      "main_tag": "app",
-      "tags":["java", "android", "ios", "ruby", "aws", "mobile"]
+      "main_tag":"app",
+      "tags":[
+         "java",
+         "android",
+         "ios",
+         "ruby",
+         "aws",
+         "mobile"
+      ]
    },
    {
       "company":"Prism Digital",
       "headline":"Trailblazing recruitment within the technology and digital industries",
       "description":"Prism was founded in late 2012 to create a recruitment consultancy that was genuinely different from the rest.\n\nUnderstanding that the world of recruitment has a terrible reputation, their vision is to approach the market with a completely new approach by providing tech companies with efficient and vertical-based recruitment solutions.",
       "image":"portfolio_prism",
-      "main_tag": "jobs",
-      "tags":["jobs", "java", "c++", "wintel", ".net", "php", "web", "linux", "devops"]
+      "main_tag":"jobs",
+      "tags":[
+         "jobs",
+         "java",
+         "c++",
+         "wintel",
+         ".net",
+         "php",
+         "web",
+         "linux",
+         "devops"
+      ]
    },
    {
       "company":"Gophr",
       "headline":"An exciting new courier service for London",
       "description":"Gophr is a fairer, smarter and faster way to send and receive packages. It enables you to order couriers on demand, receive competitively priced quotes based on distance covered and enables your pick up and delivery points to track jobs in real time, whilst receiving notifications at every stage. We plan on improving couriers lives by giving them a fairer deal on their work whilst providing a better service for customers at a competitive price. We think we can scale our network globally and at speed. The reaction so far to the service has been fantastic and we are very much looking forward to the year ahead.",
       "image":"portfolio_gophr",
-      "main_tag": "app",
-      "tags":["php", "mobile", "ios", "android"]
+      "main_tag":"app",
+      "tags":[
+         "php",
+         "mobile",
+         "ios",
+         "android"
+      ]
    },
    {
       "company":"Wondr",
       "headline":"Beautiful moments shared",
       "description":"Brings together your social network and nearby collaborators into a single, simple, beautiful story\n\n\nComing soon in 2015",
       "image":"portfolio_wondr",
-      "main_tag": "app",
-      "tags":["mobile", "ios", "android"]
+      "main_tag":"app",
+      "tags":[
+         "mobile",
+         "ios",
+         "android"
+      ]
    },
-     {
-         "company":"You",
-         "headline":"Where do YOU fit?",
-         "description":"Are you an entrepreneur with an idea, a talented and passionate developer or someone looking to make a real impact within the technology and digital industries?\n\nTalk to us about opportunities at Yonder & Beyond.",
-         "main_tag": "Startup",
-         "tags":["careers"]
-      }
+   {
+      "company":"You",
+      "headline":"Where do YOU fit?",
+      "description":"Are you an entrepreneur with an idea, a talented and passionate developer or someone looking to make a real impact within the technology and digital industries?\n\nTalk to us about opportunities at Yonder & Beyond.",
+      "main_tag":"Startup",
+      "tags":[
+         "careers"
+      ]
+   }
 ]
