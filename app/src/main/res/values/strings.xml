@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Y&amp;B Candidate</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Export</string>
+    <string name="full_name">Full Name (Required)</string>
+    <string name="email">Email Address (Required)</string>
+    <string name="phone_number">Contact Number</string>
+    <string name="notes">Notes</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="candidate_information">Candidate Information</string>
+    <string name="check_valid_details">Please check details added</string>
+    <string name="candidate_added">Thank you, your details have been added</string>
+    <string name="candidate_not_added">Sorry, your details could not be added.</string>
+    <string name="export_success">Export Successful</string>
+    <string name="export_failed">Export failed</string>
+    <string name="enter_valid_email">Please enter a valid email</string>
+    <string name="locations">London • Perth • Los Angeles</string>
+    <string name="action_info">About</string>
+    <string name="about">The Y&amp;B Family</string>
+    <string name="tags">Tags</string>
+
+</resources>
