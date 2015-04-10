@@ -5,7 +5,6 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
-import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -19,6 +18,11 @@ import java.util.List;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.classes.Company;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.utilities.FileUtils;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.TagGridView;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.adapters.AddViewAdapter;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.adapters.TagAdapter;
 
 /**
  * Created by edgeorge on 09/02/15.

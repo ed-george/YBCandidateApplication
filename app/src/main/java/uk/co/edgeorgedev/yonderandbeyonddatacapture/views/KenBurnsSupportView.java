@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.views;
 
 import java.util.Random;
 
@@ -14,6 +14,8 @@ import com.nineoldandroids.animation.AnimatorSet;
 import com.nineoldandroids.animation.ObjectAnimator;
 import com.nineoldandroids.view.ViewHelper;
 import com.nineoldandroids.view.ViewPropertyAnimator;
+
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.R;
 
 
 /**

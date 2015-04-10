@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.classes;
 
 import android.content.Context;
 
@@ -7,6 +7,8 @@ import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
 
 import java.sql.SQLException;
+
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.database.DatabaseHelper;
 
 /**
  * Created by edgeorge on 05/02/15.

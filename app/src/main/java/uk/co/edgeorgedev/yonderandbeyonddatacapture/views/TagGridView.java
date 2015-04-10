@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.views;
 
 import android.content.Context;
 import android.util.AttributeSet;

@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.views.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,6 +8,8 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import java.util.List;
+
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.R;
 
 /**
  * Created by edgeorge on 09/02/15.

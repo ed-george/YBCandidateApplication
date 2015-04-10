@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.utilities;
 
 import android.content.Context;
 import android.content.res.AssetManager;
@@ -74,22 +74,18 @@ public class FileUtils {
 
         try {
             inputStream = assetManager.open(filename);
-            if (inputStream != null) {
 
-                StringBuilder buf = new StringBuilder();
-                BufferedReader in = new BufferedReader(new InputStreamReader(inputStream));
-                String str;
+            StringBuilder buf = new StringBuilder();
+            BufferedReader in = new BufferedReader(new InputStreamReader(inputStream));
+            String str;
 
-                while ((str = in.readLine()) != null) {
-                    buf.append(str);
-                }
-
-                in.close();
-
-                return buf.toString();
-            } else {
-                throw new Exception("Input Stream was null");
+            while ((str = in.readLine()) != null) {
+                buf.append(str);
             }
+
+            in.close();
+
+            return buf.toString();
         }catch(Exception e){
             e.printStackTrace();
         }

@@ -15,6 +15,10 @@ import android.widget.Toast;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import butterknife.OnClick;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.classes.Candidate;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.utilities.ExportJsonAsync;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.KenBurnsSupportView;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.listeners.AsyncCompleteListener;
 
 
 public class DatacaptureActivity extends ActionBarActivity implements AsyncCompleteListener {

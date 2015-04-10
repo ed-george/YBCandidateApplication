@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.utilities;
 
 import android.content.Context;
 import android.os.AsyncTask;
@@ -8,6 +8,11 @@ import com.google.gson.GsonBuilder;
 import com.j256.ormlite.dao.Dao;
 
 import java.util.List;
+
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.classes.Candidate;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.database.DatabaseHelper;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.utilities.FileUtils;
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.views.listeners.AsyncCompleteListener;
 
 /**
  * Created by edgeorge on 05/02/15.

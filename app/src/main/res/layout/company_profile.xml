@@ -68,7 +68,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="16dp"/>
 
-            <uk.co.edgeorgedev.yonderandbeyonddatacapture.TagGridView
+            <uk.co.edgeorgedev.yonderandbeyonddatacapture.views.TagGridView
                 android:layout_marginTop="8dp"
                 android:id="@+id/tag_grid"
                 android:layout_width="match_parent"

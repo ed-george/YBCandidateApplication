@@ -12,7 +12,7 @@
         android:layout_height="fill_parent"
         android:orientation="vertical">
 
-        <uk.co.edgeorgedev.yonderandbeyonddatacapture.KenBurnsSupportView
+        <uk.co.edgeorgedev.yonderandbeyonddatacapture.views.KenBurnsSupportView
             android:id="@+id/kbv"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"

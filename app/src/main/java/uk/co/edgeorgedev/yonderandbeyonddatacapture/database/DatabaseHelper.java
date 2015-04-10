@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.database;
 
 /**
  * Created by edgeorge on 05/02/15.
@@ -13,6 +13,8 @@ import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.TableUtils;
 
 import java.sql.SQLException;
+
+import uk.co.edgeorgedev.yonderandbeyonddatacapture.classes.Candidate;
 
 public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
 

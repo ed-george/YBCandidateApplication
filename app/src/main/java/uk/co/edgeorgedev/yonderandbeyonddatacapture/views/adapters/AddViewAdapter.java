@@ -1,4 +1,4 @@
-package uk.co.edgeorgedev.yonderandbeyonddatacapture;
+package uk.co.edgeorgedev.yonderandbeyonddatacapture.views.adapters;
 
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
